@@ -5,10 +5,6 @@ body{
     justify-content: center;
     background-color:skyblue;
 }
-.swiper{
-    height: 100%;
-    width: 100%;
-}
 .swiper-slide {
     text-align: center;
     justify-content: 100%;
